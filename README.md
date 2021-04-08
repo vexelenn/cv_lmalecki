@@ -1,6 +1,15 @@
 # Prerequisities
 
+## Make sure you have docker
+
 Docker is requied to build this CV
+
+## Update submodules
+
+Use following command to update submodules:
+
+```git submodule update --init moderncv```
+
 
 # How to build
 
